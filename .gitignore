@@ -1,0 +1,6 @@
+*
+!.gitignore
+APPLE/
+OC/config.plist
+OC/olDconfig.plist
+OC/OpenCore.efi
